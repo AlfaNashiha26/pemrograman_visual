@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\bin\Debug\net7.0-windows\persegi_panjang.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\bin\Debug\net7.0-windows\persegi_panjang.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\bin\Debug\net7.0-windows\persegi_panjang.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\bin\Debug\net7.0-windows\persegi_panjang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\bin\Debug\net7.0-windows\persegi_panjang.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\refint\persegi_panjang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\persegi_panjang.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi_panjang\persegi_panjang\obj\Debug\net7.0-windows\ref\persegi_panjang.dll
