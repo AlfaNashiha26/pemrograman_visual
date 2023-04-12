@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\reamur\reamur\bin\Debug\net7.0-windows\reamur.exe
+C:\Users\HP\source\repos\reamur\reamur\bin\Debug\net7.0-windows\reamur.deps.json
+C:\Users\HP\source\repos\reamur\reamur\bin\Debug\net7.0-windows\reamur.runtimeconfig.json
+C:\Users\HP\source\repos\reamur\reamur\bin\Debug\net7.0-windows\reamur.dll
+C:\Users\HP\source\repos\reamur\reamur\bin\Debug\net7.0-windows\reamur.pdb
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.Form1.resources
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.AssemblyInfo.vb
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.dll
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\refint\reamur.dll
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.pdb
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\reamur.genruntimeconfig.cache
+C:\Users\HP\source\repos\reamur\reamur\obj\Debug\net7.0-windows\ref\reamur.dll

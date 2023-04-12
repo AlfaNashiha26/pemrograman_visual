@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\form\form\bin\Debug\net6.0-windows\form.exe
+C:\Users\HP\source\repos\form\form\bin\Debug\net6.0-windows\form.deps.json
+C:\Users\HP\source\repos\form\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+C:\Users\HP\source\repos\form\form\bin\Debug\net6.0-windows\form.dll
+C:\Users\HP\source\repos\form\form\bin\Debug\net6.0-windows\form.pdb
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.Form1.resources
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.AssemblyInfo.vb
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.dll
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\refint\form.dll
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.pdb
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+C:\Users\HP\source\repos\form\form\obj\Debug\net6.0-windows\ref\form.dll
