@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\bin\Debug\net7.0-windows\perkalian.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\bin\Debug\net7.0-windows\perkalian.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\bin\Debug\net7.0-windows\perkalian.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\bin\Debug\net7.0-windows\perkalian.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\bin\Debug\net7.0-windows\perkalian.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\refint\perkalian.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\perkalian.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\perkalian\perkalian\obj\Debug\net7.0-windows\ref\perkalian.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\bin\Debug\net7.0-windows\tabung.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\bin\Debug\net7.0-windows\tabung.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\bin\Debug\net7.0-windows\tabung.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\bin\Debug\net7.0-windows\tabung.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\bin\Debug\net7.0-windows\tabung.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\refint\tabung.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\tabung.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tabung\tabung\obj\Debug\net7.0-windows\ref\tabung.dll
