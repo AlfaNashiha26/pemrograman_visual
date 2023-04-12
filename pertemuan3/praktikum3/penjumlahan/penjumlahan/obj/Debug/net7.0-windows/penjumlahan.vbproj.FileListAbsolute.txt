@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\bin\Debug\net7.0-windows\penjumlahan.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\bin\Debug\net7.0-windows\penjumlahan.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\bin\Debug\net7.0-windows\penjumlahan.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\bin\Debug\net7.0-windows\penjumlahan.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\bin\Debug\net7.0-windows\penjumlahan.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\refint\penjumlahan.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\penjumlahan.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\penjumlahan\penjumlahan\obj\Debug\net7.0-windows\ref\penjumlahan.dll
