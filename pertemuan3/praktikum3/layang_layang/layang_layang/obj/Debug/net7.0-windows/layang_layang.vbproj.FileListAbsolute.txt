@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\bin\Debug\net7.0-windows\layang_layang.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\bin\Debug\net7.0-windows\layang_layang.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\bin\Debug\net7.0-windows\layang_layang.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\bin\Debug\net7.0-windows\layang_layang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\bin\Debug\net7.0-windows\layang_layang.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\refint\layang_layang.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\layang_layang.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\layang_layang\layang_layang\obj\Debug\net7.0-windows\ref\layang_layang.dll
