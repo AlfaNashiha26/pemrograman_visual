@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\bin\Debug\net7.0-windows\persegi.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\bin\Debug\net7.0-windows\persegi.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\bin\Debug\net7.0-windows\persegi.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\bin\Debug\net7.0-windows\persegi.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\bin\Debug\net7.0-windows\persegi.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\refint\persegi.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\persegi.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\persegi\persegi\obj\Debug\net7.0-windows\ref\persegi.dll

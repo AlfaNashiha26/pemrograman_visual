@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\bin\Debug\net7.0-windows\lingkaran.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\bin\Debug\net7.0-windows\lingkaran.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\bin\Debug\net7.0-windows\lingkaran.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\bin\Debug\net7.0-windows\lingkaran.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\bin\Debug\net7.0-windows\lingkaran.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\refint\lingkaran.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\lingkaran.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\lingkaran\lingkaran\obj\Debug\net7.0-windows\ref\lingkaran.dll
