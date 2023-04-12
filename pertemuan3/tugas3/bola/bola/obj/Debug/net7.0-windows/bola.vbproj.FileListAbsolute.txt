@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\bin\Debug\net7.0-windows\bola.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\bin\Debug\net7.0-windows\bola.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\bin\Debug\net7.0-windows\bola.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\bin\Debug\net7.0-windows\bola.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\bin\Debug\net7.0-windows\bola.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\refint\bola.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\bola.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\bola\bola\obj\Debug\net7.0-windows\ref\bola.dll
