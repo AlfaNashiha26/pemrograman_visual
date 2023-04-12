@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\bin\Debug\net7.0-windows\balok.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\bin\Debug\net7.0-windows\balok.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\bin\Debug\net7.0-windows\balok.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\bin\Debug\net7.0-windows\balok.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\bin\Debug\net7.0-windows\balok.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\refint\balok.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\balok.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\balok\balok\obj\Debug\net7.0-windows\ref\balok.dll

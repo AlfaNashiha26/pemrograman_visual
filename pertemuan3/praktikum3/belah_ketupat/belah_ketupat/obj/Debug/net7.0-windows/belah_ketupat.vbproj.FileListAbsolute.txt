@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\bin\Debug\net7.0-windows\belah_ketupat.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\bin\Debug\net7.0-windows\belah_ketupat.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\bin\Debug\net7.0-windows\belah_ketupat.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\bin\Debug\net7.0-windows\belah_ketupat.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\bin\Debug\net7.0-windows\belah_ketupat.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\refint\belah_ketupat.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\belah_ketupat.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\belah_ketupat\belah_ketupat\obj\Debug\net7.0-windows\ref\belah_ketupat.dll
