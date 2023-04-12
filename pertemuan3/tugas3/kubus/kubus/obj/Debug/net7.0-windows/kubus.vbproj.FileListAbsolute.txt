@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\bin\Debug\net7.0-windows\kubus.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\bin\Debug\net7.0-windows\kubus.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\bin\Debug\net7.0-windows\kubus.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\bin\Debug\net7.0-windows\kubus.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\bin\Debug\net7.0-windows\kubus.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\refint\kubus.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\kubus.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kubus\kubus\obj\Debug\net7.0-windows\ref\kubus.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\bin\Debug\net7.0-windows\kerucut.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\bin\Debug\net7.0-windows\kerucut.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\bin\Debug\net7.0-windows\kerucut.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\bin\Debug\net7.0-windows\kerucut.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\bin\Debug\net7.0-windows\kerucut.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\refint\kerucut.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\kerucut.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\kerucut\kerucut\obj\Debug\net7.0-windows\ref\kerucut.dll
