@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\bin\Debug\net7.0-windows\tugas6.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\bin\Debug\net7.0-windows\tugas6.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\bin\Debug\net7.0-windows\tugas6.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\bin\Debug\net7.0-windows\tugas6.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\bin\Debug\net7.0-windows\tugas6.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\refint\tugas6.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\tugas6.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\tugas6\tugas6\obj\Debug\net7.0-windows\ref\tugas6.dll
