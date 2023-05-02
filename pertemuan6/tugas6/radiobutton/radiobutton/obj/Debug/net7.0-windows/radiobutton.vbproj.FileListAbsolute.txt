@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\bin\Debug\net7.0-windows\radiobutton.exe
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\bin\Debug\net7.0-windows\radiobutton.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\bin\Debug\net7.0-windows\radiobutton.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\bin\Debug\net7.0-windows\radiobutton.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\bin\Debug\net7.0-windows\radiobutton.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.vbproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.AssemblyInfo.vb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\refint\radiobutton.dll
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\radiobutton.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Projects\radiobutton\radiobutton\obj\Debug\net7.0-windows\ref\radiobutton.dll
