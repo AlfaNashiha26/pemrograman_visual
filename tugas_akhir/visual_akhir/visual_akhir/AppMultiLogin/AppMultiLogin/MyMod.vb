@@ -1,9 +1,9 @@
-﻿Module MyMod
+Module MyMod
     Public api_folder As String = "tugas_akhir"
-    Public users_api As String = "http://localhost/" & api_folder & "/users_api.php"
-    Public sparepart_api As String = "http://localhost/" & api_folder & "/sparepart_api.php"
+    Public users_api As String = "http://a0843661.xsph.ru/" & api_folder & "/users_api.php"
+    Public sparepart_api As String = "http://a0843661.xsph.ru/" & api_folder & "/sparepart_api.php"
     Public sparepart_baru As Boolean
-    Public penjualan_api As String = "http://localhost/" & api_folder & "/penjualan_api.php"
+    Public penjualan_api As String = "http://a0843661.xsph.ru/" & api_folder & "/penjualan_api.php"
     Public penjualan_baru As Boolean
     Public Dashboard As New Form1
     Public Admin1Form As New Admin1
