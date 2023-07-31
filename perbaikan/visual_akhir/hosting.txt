@@ -1,0 +1,8 @@
+a0843661.xsph.ru
+
+alfa2626
+
+Имя: a0843661_sparepart
+Пользователь: a0843661_sparepart
+Пароль: alfa2626
+Адрес хоста: localhost
